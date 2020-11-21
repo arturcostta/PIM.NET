@@ -14,6 +14,11 @@
 *.userosscache
 *.sln.docstates
 
+####
+PIM/PIM/bin/*
+PIM/PIM/obj/*
+PIM/.vs/PIM/v16/.suo
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
