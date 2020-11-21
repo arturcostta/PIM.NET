@@ -30,7 +30,6 @@ namespace PIM.Data
             {
                 context.pessoas.Add(p);
             }
-
             context.SaveChanges();
         }
     }
